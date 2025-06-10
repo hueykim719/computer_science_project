@@ -24,3 +24,4 @@ student_ws = "\n".join(
     for _, row in df.iterrows()
 )#main.py에서 이용하기 위한 형식으로 출력한다.
 
+print(student_ws)
